@@ -1,4 +1,4 @@
-# ❤️ Machine Learning Approaches for Cardiovascular Disease Prediction
+# Machine Learning Approaches for Cardiovascular Disease Prediction
 
 This project explores how machine learning can be applied to predict **cardiovascular diseases (CVDs)** using a large dataset of medical, lifestyle, and demographic factors. It combines both **unsupervised** and **supervised** techniques and provides a complete data science pipeline — from cleaning and clustering to predictive modeling and evaluation.
 
@@ -68,10 +68,11 @@ This project explores how machine learning can be applied to predict **cardiovas
 ## 🧑‍💻 Author
 
 **Nisar Ahmed**
+
 **Kelsey Mclachlan**
 
 ---
 
 ## 📜 License
 
-This project is intended for academic and educational use only. Not for clinical decision-making or commercial trading.
+This project is intended for academic and educational use only. Not for clinical decision-making.
